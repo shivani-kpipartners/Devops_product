@@ -15,4 +15,4 @@ public class TestPrime {
 	         assertEquals(false,s);
 	        
 	     }
-	     }}   
+	     }}    
